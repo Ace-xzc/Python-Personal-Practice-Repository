@@ -1,0 +1,5 @@
+school = input("请输入学校: ")
+class_info = input("请输入班级: ")
+name = input("请输入你的姓名: ")
+words = input("请输入你最想对他们说的一句话: ")
+print(f"我来自: {school} {class_info} {name}= 我想对你们说: {words}")
